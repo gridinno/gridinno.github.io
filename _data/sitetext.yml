@@ -1,0 +1,70 @@
+# English (default)
+en: &DEFAULT_EN
+  header:
+    title: Power System Modeling, Simulation & Analysis
+    text: Grid Inno LLC
+    button: Contact Us
+    buttonlink: "#contact"
+
+  services:
+    title: "Services"
+    text: "Expert consulting across the full spectrum of power system analysis"
+    section: services
+    list:
+      - title: "Power Flow Analysis"
+        desc: "Steady-state power flow studies for transmission and distribution systems to ensure reliable operation and identify potential issues."
+        icon: fas fa-project-diagram
+      - title: "Dynamic Simulation"
+        desc: "Transient stability and dynamic performance assessment to evaluate system response to disturbances and faults."
+        icon: fas fa-wave-square
+      - title: "Interconnection Studies"
+        desc: "Load and generation interconnection studies to support project development and regulatory compliance."
+        icon: fas fa-plug
+      - title: "EMT Simulation"
+        desc: "Electromagnetic transient analysis for detailed modeling of power electronics, switching events, and fast transient phenomena."
+        icon: fas fa-bolt
+      - title: "Distribution Analysis"
+        desc: "Distribution system modeling and analysis including hosting capacity, volt-var optimization, and DER integration."
+        icon: fas fa-network-wired
+      - title: "Consulting & Training"
+        desc: "Expert guidance on power system tools and methodologies, including customized training for engineering teams."
+        icon: fas fa-chalkboard-teacher
+
+  about:
+    title: "About Us"
+    text: "Expertise you can rely on"
+    body: |
+      Grid Inno LLC is a specialized consulting firm delivering expert power system modeling, simulation, and analysis services. We help utilities, developers, and engineering firms solve complex grid challenges — from interconnection studies to electromagnetic transient analysis.
+
+      Our team brings deep expertise across industry-standard tools including **PSS/E**, **PSCAD**, **EMTP**, **PowerWorld**, and **OpenDSS**.
+    section: about
+
+  contact:
+    title: "Contact Us"
+    text: "Ready to discuss your project? Reach out at info@gridinno.com or call (919) 307-1766"
+    section: contact
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Grid Inno Website Contact"
+    submit: "Send Message"
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://linkedin.com
+        icon: "fab fa-linkedin-in"
+
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN

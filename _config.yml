@@ -1,0 +1,27 @@
+# Site settings
+#theme: jekyll-agency
+remote_theme: raviriley/agency-jekyll-theme
+
+url    : "https://www.gridinno.com"
+baseurl: ""
+
+title      : Grid Inno LLC
+email      : info@gridinno.com
+description: "Power system modeling, simulation, and analysis consulting. Specializing in interconnection studies, dynamic simulation, and EMT analysis."
+author     : Grid Inno LLC
+# logo:
+#   path: assets/img/logo.png
+#   height: 60
+
+locale: "en-US"
+
+analytics:
+  google:
+
+collections:
+  portfolio:
+
+markdown: kramdown
+
+plugins:
+  - jekyll-remote-theme
