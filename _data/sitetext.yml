@@ -34,7 +34,7 @@ en: &DEFAULT_EN
     title: "About Us"
     text: "Expertise you can rely on"
     body: |
-      Grid Inno LLC is a specialized consulting firm delivering expert power system modeling, simulation, and analysis services. We help utilities, developers, and engineering firms solve complex grid challenges — from interconnection studies to electromagnetic transient analysis.
+      Grid Inno LLC is a specialized consulting firm delivering expert power system modeling, simulation, and analysis services. We help utilities, developers, and engineering firms solve complex grid challenges, from interconnection studies to electromagnetic transient analysis.
 
       Our team brings deep expertise across industry-standard tools including **PSS/E**, **PSCAD**, **EMTP**, **PowerWorld**, and **OpenDSS**.
     section: about
